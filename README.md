@@ -1,17 +1,10 @@
 # 🛍️ E-Commerce Sales Dashboard | Power BI Project
 
 ## 📖 Overview
-This project is part of my internship with **Future Interns**, focused on analyzing e-commerce sales performance using **Power BI**.  
+This project is part of my exploring PowerBI functions focused on analyzing e-commerce sales performance using **Power BI**.  
 The goal was to transform raw transactional data into meaningful business insights that highlight **best-selling products, sales trends, high-revenue categories,** and **regional performance**.
 
----
-
-## 🎯 Task Description (Given by Future Interns)
-**Task:** Analyze e-commerce data to identify best-selling products, sales trends, and high-revenue categories using Power BI.  
-**Skills Gained:** Data Cleaning, DAX, Trend Analysis, Business Storytelling  
-**Deliverable:** An interactive dashboard with visuals and insights for business decisions.
-
----
+--- 
 
 ## 🧩 Objectives
 - Identify **top-selling categories and sub-categories**
@@ -77,14 +70,6 @@ The goal was to transform raw transactional data into meaningful business insigh
 - Applying **data storytelling** to support business decisions  
 - Building **interactive dashboards** that combine analytics with design  
 - Enhancing **Power BI proficiency** with DAX, filters, and visualization best practices  
-
----
-
-## 👩‍💻 Intern Details
-**Internship:** Future Interns  
-**Role:** Data Science and Analytics
-**Duration:** October 2025  
-**Project:** E-Commerce Sales Report Dashboard   
 
 ---
 
